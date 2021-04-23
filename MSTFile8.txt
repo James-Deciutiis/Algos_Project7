@@ -1,0 +1,6 @@
+*** Prim's MST of he input graph G is: ***
+numNodes: 12
+*** PRINTING MST LIST ***
+<Ni: 0 Nj: 0 Cost: 0 Next Node: 3>--><Ni: 3 Nj: 2 Cost: 25 Next Node: 1>--><Ni: 1 Nj: 6 Cost: 23 Next Node: 9>--><Ni: 9 Nj: 11 Cost: 15 Next Node: 9>--><Ni: 9 Nj: 8 Cost: 21 Next Node: 8>--><Ni: 8 Nj: 10 Cost: 15 Next Node: 3>--><Ni: 3 Nj: 5 Cost: 14 Next Node: 5>--><Ni: 5 Nj: 4 Cost: 12 Next Node: 5>--><Ni: 5 Nj: 7 Cost: 5 Next Node: 6>--><Ni: 6 Nj: 7 Cost: 12 Next Node: 6>--><Ni: 6 Nj: 12 Cost: 8 Next Node: 8>--><Ni: 8 Nj: 6 Cost: 12 Next Node: NULL>
+*** DONE PRINTING MST LIST ***
+*** MST total cost = 162 ***
